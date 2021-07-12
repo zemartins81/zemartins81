@@ -4,4 +4,9 @@
 
 Se chegou até aqui, já sabe que me chamo **José Carlos Martins** e que sou desenvolvedor **Fullstack**. 
 Também já deve ter notado que o meu e-mail é ![email](images/outlook.png) [jcmartins81@outlook.com](mailto:jcmartins81@outlook.com).
-Se ainda não viu meu perfil no [linkedin](https://www.linkedin.com/in/jos%C3%A9-carlos-martins-878a1013a)
+Se ainda não viu meu perfil no ![linkedin](images/linkedin.png)(https://www.linkedin.com/in/jos%C3%A9-carlos-martins-878a1013a)
+
+
+
+### Fonte de ícones usadas nesse perfil: 
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
