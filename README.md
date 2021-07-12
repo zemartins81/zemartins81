@@ -10,8 +10,8 @@ Também já deve ter notado que o meu e-mail é [📧 jcmartins81@outlook.com](m
 
 #### Áreas de conhecimento:
 
-* ![Nodejs](images/nodejs.png)NodeJS;
-* ![Reactjs](images/react.png)ReactJS;
+* ![Nodejs](images/nodejs.png) NodeJS;
+* ![ReactJS](images/react.png) ReactJS;
 
     
 
