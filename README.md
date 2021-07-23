@@ -23,10 +23,13 @@ Também já deve ter notado que o meu e-mail é [📧 jcmartins81@outlook.com](m
 
 #### Projetos:
 
-* [Artes da Pampilly](https://artesdapampilly.art) - Projeto feito em React e publicado no ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+* # [Artes da Pampilly](https://artesdapampilly.art) 
+Projeto feito em React e publicado no: 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
-* [LetMeAsk](https://github.com/jcmartins81/letmeask) - Projeto desenvolvido no evento [nlw-together](https://nextlevelweek.com/pre-nlw). Neste projeto, desenvolvemos um sistema de criação de salas de perguntas com interação em tempo real.
+* # [LetMeAsk](https://github.com/jcmartins81/letmeask) 
+ Projeto desenvolvido no evento [nlw-together](https://nextlevelweek.com/pre-nlw). Neste projeto, desenvolvemos um sistema de criação de salas de perguntas com interação em tempo real.
   
   **Tecnologias envolvidas:**
    
