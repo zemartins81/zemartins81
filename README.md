@@ -21,7 +21,7 @@ Também já deve ter notado que o meu e-mail é [📧 jcmartins81@outlook.com](m
 * Graduado em Matemática Licenciatura pela [Universidade Federal de Santa Catarina](https://ufsc.br/);
 * Cursando MBA em Desenvolvimento FullStack pelo [Instituto de Gestão e Tecnologia da Informação](https://www.igti.com.br/) 
 
-## Projetos:
+## [Projetos:](https://github.com/jcmartins81?tab=repositories)
 
 * ### [Artes da Pampilly](https://artesdapampilly.art) 
   Projeto feito em React e publicado no: 
