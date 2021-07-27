@@ -70,6 +70,7 @@ Também já deve ter notado que o meu e-mail é [📧 jcmartins81@outlook.com](m
     * Adição de services para a comunicação entre o BD e os Routers;
     * Banco de Dados MongoDB rodando em container;
     * Adição de eslint + prettier para formatação do código;
+    * Inclusão de chaves públicas e privadas para criar/validar tokens;
     ####
   * Tecnologias envolvidas:
   
