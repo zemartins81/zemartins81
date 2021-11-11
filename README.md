@@ -3,8 +3,8 @@
 ## Sobre Mim!
 
 Se chegou até aqui, já sabe que me chamo **José Carlos Martins** e que sou desenvolvedor **Fullstack Javascript**.
-Também já deve ter notado que o meu e-mail é [📧 zemartins81@gmail.com](mailto:zemartins81@gmail.com) e que o meu linkedin é
-[www.linkedin.com/in/zemartins81](https://www.linkedin.com/in/zemartins81).
+Também já deve ter notado que o meu e-mail é [📧 jcmartins81@outlook.com](mailto:jcmartins81@outlook.com) e que o meu linkedin é
+[www.linkedin.com/in/jcmartins81](https://www.linkedin.com/in/jcmartins81).
 
 ## O que talvez você não saiba:
 
@@ -18,11 +18,11 @@ Também já deve ter notado que o meu e-mail é [📧 zemartins81@gmail.com](mai
 
 ### Formação:
 
-- Cursando MBA em Desenvolvimento FullStack pelo [Instituto de Gestão e Tecnologia da Informação](https://www.igti.com.br/)
+- MBA em Desenvolvimento FullStack pelo [Instituto de Gestão e Tecnologia da Informação](https://www.igti.com.br/)
 
 - Graduado em Matemática Licenciatura pela [Universidade Federal de Santa Catarina](https://ufsc.br/);
 
 ###
 
-[![zemartins81 GitHub stats](https://github-readme-stats.vercel.app/api?username=zemartins81&count_private=true&show_icons=true&theme=radical)
-](https://github.com/zemartins81/github-readme-stats)
+[![jcmartins81 GitHub stats](https://github-readme-stats.vercel.app/api?username=zemartins81&count_private=true&show_icons=true&theme=radical)
+](https://github.com/jcmartins81/github-readme-stats)
