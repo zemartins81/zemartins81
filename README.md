@@ -24,5 +24,5 @@ Também já deve ter notado que o meu e-mail é [📧 jcmartins81@outlook.com](m
 
 ###
 
-[![jcmartins81 GitHub stats](https://github-readme-stats.vercel.app/api?username=zemartins81&count_private=true&show_icons=true&theme=radical)
+[![jcmartins81 GitHub stats](https://github-readme-stats.vercel.app/api?username=jcmartins81&count_private=true&show_icons=true&theme=radical)
 ](https://github.com/jcmartins81/github-readme-stats)
