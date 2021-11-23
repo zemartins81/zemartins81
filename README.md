@@ -42,7 +42,7 @@ Também já deve ter notado que o meu e-mail é [📧 jcmartins81@outlook.com](m
   - [Prismic](https://www.prismic.io/) para a publicação de posts;
   - [faunadb](https://fauna.com/) para acesso ao banco de dados;
 
-![Alt Text](./images/ignews.gif)
+<img src="./images/ignews.gif" alt="bikeMasters" width="500" height="300"/>
 # 
 
 ## [Bike-Masters](https://github.com/jcmartins81/bike_master)
@@ -55,4 +55,4 @@ Também já deve ter notado que o meu e-mail é [📧 jcmartins81@outlook.com](m
     - [MongoDB](https://www.mongodb.com.br/) como banco de dados;
     - [Docker](https://www.docker.com/) para rodar as partes da aplicação;
   
-![Alt Text](./images/bikeMasters.gif)
+<img src="./images/bikeMasters.gif" alt="bikeMasters" width="500" height="300"/>
