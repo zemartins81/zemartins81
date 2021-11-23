@@ -43,7 +43,8 @@ Também já deve ter notado que o meu e-mail é [📧 jcmartins81@outlook.com](m
   - [faunadb](https://fauna.com/) para acesso ao banco de dados;
 
 <img src="./images/ignews.gif" alt="bikeMasters" width="500" height="300"/>
-# 
+
+###
 
 ## [Bike-Masters](https://github.com/jcmartins81/bike_master)
 - Projeto de Conclusão do curso MBA em Desenvolvimento FullStack do [Instituto de Gestão e Tecnologia da Informação](https://www.igti.com.br/).
