@@ -26,3 +26,33 @@ Também já deve ter notado que o meu e-mail é [📧 jcmartins81@outlook.com](m
 
 [![jcmartins81 GitHub stats](https://github-readme-stats.vercel.app/api?username=jcmartins81&count_private=true&show_icons=true&theme=radical)
 ](https://github.com/jcmartins81/github-readme-stats)
+
+###     
+
+
+# Projetos Recentes:
+
+## [Ignews](https://github.com/jcmartins81/ignews) 
+- Projeto criado no bootcamp de ReactJS da [RocketSeat](https://www.rocketseat.com.br/).
+- Tecnologias utilizadas:
+  
+  - [NextJs](https://nextjs.org/) no frontend;
+  - [Sass](https://sass-lang.com/) para estilização;
+  - [Stripe](http://stripe.com/) para controle de pagamentos;
+  - [Prismic](https://www.prismic.io/) para a publicação de posts;
+  - [faunadb](https://fauna.com/) para acesso ao banco de dados;
+
+![Alt Text](./images/ignews.gif)
+# 
+
+## [Bike-Masters](https://github.com/jcmartins81/bike_master)
+- Projeto de Conclusão do curso MBA em Desenvolvimento FullStack do [Instituto de Gestão e Tecnologia da Informação](https://www.igti.com.br/).
+- Tecnologias Utilizadas:
+    
+    - [ReactJS](https://reactjs.org/) no frontend;
+    - [Sass](https://sass-lang.com/) para estilização;
+    - [NodeJS](http://nodejs.org/) no backend;
+    - [MongoDB](https://www.mongodb.com.br/) como banco de dados;
+    - [Docker](https://www.docker.com/) para rodar as partes da aplicação;
+  
+![Alt Text](./images/bikeMasters.gif)
