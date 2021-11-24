@@ -29,7 +29,6 @@ Também já deve ter notado que o meu e-mail é [📧 jcmartins81@outlook.com](m
 
 ###     
 
-
 # Projetos Recentes:
 
 ## [Ignews](https://github.com/jcmartins81/ignews) 
@@ -42,10 +41,11 @@ Também já deve ter notado que o meu e-mail é [📧 jcmartins81@outlook.com](m
   - [Prismic](https://www.prismic.io/) para a publicação de posts;
   - [faunadb](https://fauna.com/) para acesso ao banco de dados;
 
-<img src="./images/ignews.gif" alt="bikeMasters" width="500" height="300"/>
+<img src="./images/ignews.gif" alt="ignews" width="500" height="300"/>
 
-###
+</br>
 
+#
 ## [Bike-Masters](https://github.com/jcmartins81/bike_master)
 - Projeto de Conclusão do curso MBA em Desenvolvimento FullStack do [Instituto de Gestão e Tecnologia da Informação](https://www.igti.com.br/).
 - Tecnologias Utilizadas:
@@ -57,3 +57,23 @@ Também já deve ter notado que o meu e-mail é [📧 jcmartins81@outlook.com](m
     - [Docker](https://www.docker.com/) para rodar as partes da aplicação;
   
 <img src="./images/bikeMasters.gif" alt="bikeMasters" width="500" height="300"/>
+
+</br>
+
+#
+## [Controle de Estoque](https://github.com/jcmartins81/inventory_control_full)
+- Aplicação criada para controle de estoque de produtos.
+- Tecnologias Utilizadas:
+    
+  - No Frontend:
+    - [ReactJS](https://reactjs.org/);
+    - Frontend rodando no Azure com [Azure Static Web Apps](https://azure.microsoft.com/pt-br/services/app-service/static/).
+  - No Backend:
+    - Api rodando em [NodeJS](http://nodejs.org/);
+    - Autenticação com [JWT](https://jwt.io/);
+    - Validação de tokens utilizando chaves públicas e privadas;
+    - Banco MongoDb com [Mongoose](https://mongoosejs.com/).
+  
+  <img src="./images/ctrlEstoque.gif" alt="Controle de Estoque" width="500" height="300"/>
+
+</br>
