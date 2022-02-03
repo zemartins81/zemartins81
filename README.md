@@ -2,7 +2,7 @@
 
 
 Se chegou até aqui, já sabe que me chamo **José Carlos Martins** e que sou desenvolvedor **Fullstack Javascript**.
-Também já deve ter notado que o meu e-mail é [📧 jcmartins81@outlook.com](mailto:jcmartins81@outlook.com) e que o meu linkedin é
+Também já deve ter notado que o meu e-mail é [📧 zemartins81@gmail.com](mailto:zemartins81@gmail.com) e que o meu linkedin é
 [www.linkedin.com/in/jcmartins81](https://www.linkedin.com/in/jcmartins81).
 
 # O que talvez você não saiba:
