@@ -3,12 +3,12 @@
 
 Se chegou até aqui, já sabe que me chamo **José Carlos Martins** e que sou desenvolvedor **Fullstack Javascript**.
 Também já deve ter notado que o meu e-mail é [📧 zemartins81@gmail.com](mailto:zemartins81@gmail.com) e que o meu linkedin é
-[www.linkedin.com/in/jcmartins81](https://www.linkedin.com/in/jcmartins81).
+[www.linkedin.com/in/jcmartins81](https://www.linkedin.com/in/zemartins81).
 
 # O que talvez você não saiba:
 
 ## Áreas de conhecimento:
-
+Go	![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/static/v1?label=&message=JAVASCRIPT&color=F7DF1E&style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
