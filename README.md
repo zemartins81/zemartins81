@@ -20,14 +20,14 @@ Desenvolvedor Fullstack com sólida experiência em Javascript/Typescript e foco
 
 ## Projetos Destacados
 
-### IESES Concursos
+### [IESES Concursos](https://www.concursos.ieses.org)
 ![IESES](/images/ieses.png)
 
 Reformulação e implantação em nuvem de todo o sistema de cadastro e inscrições do IESES, utilizando arquitetura moderna e práticas de DevOps para garantir escalabilidade e segurança.
 
 **Tecnologias utilizadas:** ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JAVASCRIPT](https://img.shields.io/static/v1?label=&message=JAVASCRIPT&color=F7DF1E&style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### BikeMasters
+### [BikeMasters](https://github.com/zemartins81/bike_master)
 ![BikeMasters](/images/bikeMasters.gif)
 
 Sistema de gerenciamento para loja de bicicletas desenvolvido com tecnologias modernas de frontend e backend, implementando boas práticas de desenvolvimento e experiência de usuário intuitiva.
@@ -36,7 +36,7 @@ Sistema de gerenciamento para loja de bicicletas desenvolvido com tecnologias mo
 
 [Ver projeto](https://github.com/zemartins81/bikeMasters)
 
-### Controle de Estoque
+### [Controle de Estoque](https://github.com/zemartins81/inventory_control_full)
 ![Controle de Estoque](/images/ctrlEstoque.gif)
 
 Aplicação para controle de inventário e estoque, com recursos de gestão de produtos, fornecedores e relatórios detalhados, proporcionando melhor controle operacional e tomada de decisões.
@@ -45,7 +45,7 @@ Aplicação para controle de inventário e estoque, com recursos de gestão de p
 
 [Ver projeto](https://github.com/zemartins81/ctrlEstoque)
 
-### Ignews
+### [Ignews](https://github.com/zemartins81/ignews)
 ![Ignews](/images/ignews.gif)
 
 Plataforma de blog com sistema de assinaturas integrado, desenvolvida durante curso de aperfeiçoamento, implementando conceitos avançados de Next.js e integração com serviços de pagamento.
