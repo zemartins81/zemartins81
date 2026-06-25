@@ -1,83 +1,165 @@
+<div align="center">
+
 # José Carlos Martins
-## Desenvolvedor Fullstack Javascript | Especialista em Go
+### Desenvolvedor Full Stack · Go · TypeScript · React
 
-[![Email](https://img.shields.io/badge/Email-zemartins81%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:zemartins81@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jcmartins81-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jcmartins81)
-[![GitHub](https://img.shields.io/badge/GitHub-zemartins81-181717?style=flat-square&logo=github)](https://github.com/zemartins81)
+[![Email](https://img.shields.io/badge/Email-zemartins81%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zemartins81@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zemartins81-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zemartins81)
+[![GitHub](https://img.shields.io/badge/GitHub-zemartins81-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zemartins81)
 
-Desenvolvedor Fullstack com sólida experiência em Javascript/Typescript e foco atual em desenvolvimento Go. Combinando conhecimentos técnicos com visão gerencial, busco constantemente aprimorar minhas habilidades e enfrentar novos desafios tecnológicos.
+</div>
 
-## Competências Técnicas
+> Desenvolvedor Full Stack em transição de carreira, com formação em desenvolvimento de software e projetos práticos em **Go**, **TypeScript** e **React**. Meu background em gestão operacional me trouxe forte capacidade de resolução de problemas, entrega de resultados e visão de processos. Atualmente busco oportunidades como **Desenvolvedor Júnior/Pleno** — presencial, remoto ou híbrido em **Florianópolis/São José (SC)**.
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/static/v1?label=&message=JAVASCRIPT&color=F7DF1E&style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
+
+## Tecnologias
+
+<div align="center">
+
+**Linguagens**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Banco de Dados**
+
+![REST API](https://img.shields.io/badge/RESTful%20APIs-005571?style=for-the-badge&logo=swagger&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**DevOps & Ferramentas**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Metodologias**
+
+`Scrum` · `Ágil` · `Microsserviços` · `Automação de workflows`
+
+</div>
+
+---
 
 ## Projetos Destacados
 
-### [IESES Concursos](https://www.concursos.ieses.org)
-![IESES](/images/ieses.png)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Reformulação e implantação em nuvem de todo o sistema de cadastro e inscrições do IESES, utilizando arquitetura moderna e práticas de DevOps para garantir escalabilidade e segurança.
+### 🏆 [IESES Concursos](https://www.concursos.ieses.org)
 
-**Tecnologias utilizadas:** ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JAVASCRIPT](https://img.shields.io/static/v1?label=&message=JAVASCRIPT&color=F7DF1E&style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<img src="/images/ieses.png" alt="IESES Concursos" width="100%" />
 
-### [BikeMasters](https://github.com/zemartins81/bike_master)
-![BikeMasters](/images/bikeMasters.gif)
+Plataforma de concursos públicos com cache Redis, infraestrutura cloud e pipelines CI/CD.
 
-Sistema de gerenciamento para loja de bicicletas desenvolvido com tecnologias modernas de frontend e backend, implementando boas práticas de desenvolvimento e experiência de usuário intuitiva.
+**Tecnologias:** Go · Redis · MySQL · Docker · CI/CD · JavaScript · HTML · CSS
 
-**Tecnologias utilizadas:** ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
-[Ver projeto](https://github.com/zemartins81/bikeMasters)
+### 🚴 [Bike Masters](https://github.com/zemartins81/bike_master)
 
-### [Controle de Estoque](https://github.com/zemartins81/inventory_control_full)
-![Controle de Estoque](/images/ctrlEstoque.gif)
+<img src="/images/bikeMasters.gif" alt="Bike Masters" width="100%" />
 
-Aplicação para controle de inventário e estoque, com recursos de gestão de produtos, fornecedores e relatórios detalhados, proporcionando melhor controle operacional e tomada de decisões.
+Plataforma de gestão de eventos esportivos com interface responsiva.
 
-**Tecnologias utilizadas:** ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+**Tecnologias:** React · TypeScript · Node.js · Express · Docker
 
-[Ver projeto](https://github.com/zemartins81/ctrlEstoque)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### [Ignews](https://github.com/zemartins81/ignews)
-![Ignews](/images/ignews.gif)
+### 📦 [Controle de Estoque](https://github.com/zemartins81/inventory_control_full)
 
-Plataforma de blog com sistema de assinaturas integrado, desenvolvida durante curso de aperfeiçoamento, implementando conceitos avançados de Next.js e integração com serviços de pagamento.
+<img src="/images/ctrlEstoque.gif" alt="Controle de Estoque" width="100%" />
 
-**Tecnologias utilizadas:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+Sistema de gestão de inventário, produtos, fornecedores e relatórios.
 
-[Ver projeto](https://github.com/zemartins81/ignews)
+**Tecnologias:** Node.js · TypeScript · React · Docker
+
+</td>
+<td width="50%" valign="top">
+
+### 📰 [Ignews](https://github.com/zemartins81/ignews)
+
+<img src="/images/ignews.gif" alt="Ignews" width="100%" />
+
+Blog com sistema de assinaturas, autenticação e integração com Stripe.
+
+**Tecnologias:** Next.js · React · TypeScript · Stripe API
+
+</td>
+</tr>
+</table>
+
+---
 
 ## Experiência Profissional
 
-### Gerente Operacional | 2010 - ATUAL
-**GPG Processamento de Dados**
-- Gerenciamento de operações e processos de tecnologia da informação
+### 💼 Desenvolvedor Full Stack (Projeto Interno)
+**GPG Processamento de Dados** · Florianópolis, SC · *2018 — Out/2025*
+
+- Desenvolvimento de soluções internas utilizando **Go**, **Node.js**, **TypeScript** e **React**
+- Criação de **APIs RESTful** e arquitetura de **microsserviços** com **Docker** e **Redis**
+- Implementação de **pipelines CI/CD** e modernização de processos via automação
+
+### 🎯 Gerente Operacional
+**GPG Processamento de Dados** · *2010 — 2018*
+
+- Gestão de operações e processos de tecnologia da informação
 - Coordenação de equipes técnicas e definição de prioridades
-- Implementação de melhorias e otimizações nos sistemas existentes
-- Desenvolvimento de soluções personalizadas nas horas vagas, utilizando principalmente Go e JavaScript
+- Desenvolvimento de sistemas internos para automação de tarefas e otimização de workflows
+
+---
 
 ## Formação Acadêmica
 
-- **MBA em Desenvolvimento FullStack**  
-  [Instituto de Gestão e Tecnologia da Informação](https://www.igti.com.br/)
+| Curso | Instituição |
+|-------|-------------|
+| Pós-Graduação em Go | Go Expert — *Set/2025* |
+| MBA em Desenvolvimento Full Stack | [IGTI](https://www.igti.com.br/) |
+| Licenciatura em Matemática | [UFSC](https://ufsc.br/) |
 
-- **Graduação em Matemática Licenciatura**  
-  [Universidade Federal de Santa Catarina](https://ufsc.br/)
+---
 
-## Certificações
+## Certificações & Idiomas
 
-- [Acesse aqui](https://www.linkedin.com/in/zemartins81/details/certifications/)
+- 📜 **Google Cloud Computing Foundations**
+- 📜 [Mais certificações no LinkedIn](https://www.linkedin.com/in/zemartins81/details/certifications/)
+- 🇧🇷 Português: Nativo
+- 🇺🇸 Inglês: Técnico
+
+---
 
 ## Objetivos Profissionais
 
-- Aprofundar conhecimentos em Go, explorando desenvolvimento de microsserviços e aplicações de alta performance
-- Adquirir experiência prática em arquiteturas baseadas em eventos e sistemas distribuídos
-- Expandir habilidades em DevOps e práticas de CI/CD
-- Continuar em busca de novos desafios e conhecimentos que complementem minha trajetória profissional
+- 🚀 Aprofundar conhecimentos em **Go**, explorando microsserviços e aplicações de alta performance
+- ⚡ Adquirir experiência prática em **arquiteturas baseadas em eventos** e **sistemas distribuídos**
+- 🔄 Expandir habilidades em **DevOps** e práticas de **CI/CD**
+- 💡 Continuar enfrentando novos desafios que complementem minha trajetória técnica e gerencial
+
+---
+
+<div align="center">
+
+**Vamos nos conectar?** <br>
+[✉️ Email](mailto:zemartins81@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/zemartins81) · [🐙 GitHub](https://github.com/zemartins81)
+
+_Disponível para trabalho presencial, remoto ou híbrido em Florianópolis/São José (SC)_
+
+</div>
